@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
+
+    <title>Sangito Blog - Post Details</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/style-utama.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+
+  </head>
+
+  <body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+
+    <!-- Header -->
+    <header class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"><h2>Sangito Blog<em>.</em></h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Blog Entries</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Post Details</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Page Content -->
+    <!-- Banner Starts Here -->
+    <div class="heading-page header-text">
+    </div>
+    
+    <!-- Banner Ends Here -->
+
+    <section class="blog-posts grid-system">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="all-blog-posts">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="blog-post">
+                    <div class="blog-thumb">
+                      <img src="assets/images/virus.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+                      <span>Internet</span>
+                      <a href="post-details.html"><h4>Tanda Jika Ponsel Terkena Virus</h4></a>
+                      <ul class="post-info">
+                        <li><a href="#">Admin</a></li>
+                        <li><a href="#">Oktober 22, 2020</a></li>
+                        <li><a href="#">0 Comments</a></li>
+                      </ul>
+                      <p>Virus merupakan perangkat lunak jahat yang merusak sistem pada perangkat elektronik seperti <em>Komputer, Laptop, Smartphone, dan sebagainya</em>. Selain merusak sistem tapi ternyata virus juga bisa mencuri data penting dari para korbannya.</p>
+ <p>Sebagai pengguna smartphone kita harus memastikan betul-betul bahwa ponsel kita terbebas dari virus. Jika Anda sebagai pengguna awam, maka Anda harus mengetahui ciri-ciri ponsel yang telah terinfeksi virus agar segera ditangani sebelum menyebar.</p>
+ <p>Virus menginfeksi Sistem Operasi kita dengan berbagai macam cara, yaitu melalui internet. Dengan disisipkan ke dalam bundle aplikasi yang telah di download dari sumber mencurigakan, melalui undian berhadiah di situs website mencurigakan, bahkan bisa saja melalui jaringan WiFi publik.</p>
+ <p>Virus pun bisa dibuat dengan mudah jika Anda paham alurnya. Contohnya virus didalam PC ataupun laptop sangat mudah sekali, hanya Anda harus paham bahasa pemrograman terlebih dahulu untuk membuatnya.</p>
+  <blockquote>Baca juga: <a title="" href="https://www.webbatik.com/2020/06/cara-membuat-virus-trojan.html" target="_blank" rel="noopener noreferrer">Cara Membuat Virus Trojan</a>
+   </blockquote>
+ <p>Virus juga bisa disebarkan melalui ponsel orang lain yang sudah terkena virus, oleh karena itu jika ada temen Anda yang mau berbagi file melalui sharing <em>Bluetooth</em>, Anda harus mewaspadainya ya gaes. Dan usahakan tolak permintaan temen Anda, diusahakan menggunakan WhatsApp atau Email biar lebih aman.</p>
+ <p>Dan perlu Anda ketahui bahwa Android paling banyak digunakan seperti halnya Windows perangkat Dekstop. Apalagi Android ini bersifat Open Source yang artinya update sistem sepenuhnya menjadi tanggung jawab dari pembuat ponsel, dan semua orang pun bisa membuat aplikasi buatannya sendiri kemudian di unggah di PlayStore.</p>
+ <p>Meskipun bisa di unggah di PlayStore telah melalui filter keamanan PlayProtect, namun ya tetep saja sering kecolongan. Namun sudah banyak kok yang sudah diblokir dan sudah di hapus dari PlayStore karena diketahui menyebarkan <em>Adware, Spyware, dan lain-lain</em>. Yang lebih bahaya lagi, jika sudah terkena <em>Adware</em> semua data pribadi kita akan direkam dan masuk ke pengembang aplikasi tersebut, dan bahkan bisa saja dijual.</p>
+ <p>Oleh sebab itu saya akan membagikan informasi ciri-ciri jika ponsel Anda sudah terkena virus, silahkan dibaca dan disimak.</p>
+<ol>
+ <li>Ponsel Mati jika Menerima Panggilan</li>
+  <p>Jika ponsel Anda mati mendadak jika setiap kali menerima panggilan, ada kemungkinan kalau virus telah masuk kedalam sistem Android.</p>
+  <p>Kondisi seperti ini virus akan secara otomatis menyadap panggilan melalui suara, namun karena <em>pemblokiran izin</em> untuk mengakses Microfon dari sistem, maka membuat panggilan tiba-tiba putus.</p>
+  <p>Waspadai setiap kali menerima panggilan tetapi selalu mengalami gangguan yang menyebabkan panggilan terputus, karena itu adanya upaya ikut campur virus dalam usaha menyadap.</p>
+
+ <li>Ponsel Menjadi Lelet</li>
+<p>Jika ponsel Anda mulai merasakan kinerjanya menjadi lamban, sering <em>Force Close</em> atau gagal memproses instruksi permintaan dari kita. Tentu saja proses dari virus ini cenderung menguras habis sumber daya CPU yang digunakan, apalagi jika terkoneksi ke internet.</p>
+  <p>Jika iya ponsel Anda menjadi lambat, coba deh buka daftar aplikasi yang sedang berjalan, jika Anda tidak merasa adanya suatu keanehan tetapi penggunaan CPU cukup tinggi, silahkan scan ponsel Anda dengan aplikasi <em>AntiVirus</em>.</p>
+
+ <li>Baterai Cepat Drop</li>
+  <p>Ciri-ciri selanjutnya yaitu baterai menjadi cepat drop, meskipun ponsel kita tidak digunakan sama sekali. Akan tetapi tunggu dulu, selama ponsel kita terhubung ke internet maka virus akan mencoba selalu terhubung ke server, entah untuk menggunggah data maupun mendownload data. Bisa jadi baterai Anda cepat habis gara-gara makhluk ini.</p>
+
+ <li>Munculnya Iklan Pengganggu</li>
+<p>Seperti yang saya sebutkan diatas tadi, bahwa jika sudah terkena <em>Adware</em> akan sangat berbahaya sekali, dan biasanya tanda jika sudah terkena yaitu banyak iklan dilayar ponsel kita.</p>
+                                <img alt="" height="500" layout="responsive" src="https://3.bp.blogspot.com/-6Bz1lwnyNxA/X0aW9hIVnKI/AAAAAAAAJGw/fiY78W-LGL0-VwxsewUY7P6pntVKU6GuQCLcBGAsYHQ/s500-rw/DONE-Iklan.PNG" title="" width="720"></img>
+  <p>Apa tujuan virus ini menampilkan banyak iklan? Oke, biasanya ini iklan untuk mencari pelanggan, memperoleh penghasilan PPC <em>(Paid to Click)</em>, mencuri data pengguna, sehingga tampilan dari iklan ini seolah-olah asli padahal itu virus.</p>
+  
+ <li>Mengalihkan Aktivitas Browsing</li>
+<p>Hal ini pasti kita sering temui kan, misalnya ketika Anda mengakses website saya <em>Webbatik.com</em> tiba-tiba kita di alihkan ke situs lain atau membuka Tab baru padahal situs saya ini hanya memasang iklan Banner dari Google Adsense, dan jujur situs kami tidak ada iklan PopUP ataupun me-redirect ke situs website lain.</p>
+                                <img alt="" height="500" layout="responsive" src="https://4.bp.blogspot.com/-v_QWoyqqD8I/X0aW9ABfBBI/AAAAAAAAJGs/_JB1Nx1QXXsJ3dmWVYasn19KvYCcVoW0gCLcBGAsYHQ/s500-rw/DONE-Spin-Hadiah.PNG" title="" width="720"></img>
+  <p>Atau bisa juga yang sering saya temui yaitu iklan Mendapatkan hadiah Mobil, Handphone, Motor, dan sebagainya dan itupun harus memutar spin 3 kali dan baru hadiah akan keluar. Jika sudah keluar akan disuruh mengisi data pribadi atau apapun itu jangan mau, karena itu adalah <strong>Virus</strong>.</p>
+  <p>Bisa juga di redirect ke halaman menyerupai Form Login Page dan harus mengisikan akun <em>Email, Password</em> sekali lagi kami ingatkan, jangan mengisikan form tersebut. Karena bisa jadi itu Phising.</p>
+
+ <li>Munculnya Aplikasi Tidak Dikenal</li>
+  <p>Sebagai pemilik ponsel pastinya kita tau dong apa saja isi dari daftar aplikasi didalam ponsel kita. Terkadang kita melihat aplikasi mencurigakan yang muncul secara tiba-tiba dan kita tidak tau fungsinya buat apaan.</p>
+  <p>Aplikasi ini biasanya masuk ketika kita mengklik tautan asing yang sumbernya kurang dipercaya. Bisa jadi itu adalah virus.</p>
+
+ <li>Jangan Konek ke Jaringan WiFi Publik</li>
+<p>Jaringan free WiFi sering kita jumpai di taman kota, Stasiun, Rumah Sakit, Sekolah, Cafe, Hotel, dan lain-lain. Pasti kita senang kan jika menemukan WiFi publik tanpa kata sandi ini.</p>
+                                <img alt="" height="600" layout="responsive" src="https://2.bp.blogspot.com/-mTMOCObmo4k/X0aIIGBMkII/AAAAAAAAJF4/AoYLsXunDDM7GRsRAgcWs3O2CiDI3imUwCLcBGAsYHQ/s500-rw/wifi-publik.jpeg" title="" width="500"></img>
+ <p>Tanpa kita sadari, disitulah para hacker mulai menjalankan aksinya yaitu menyusupi virus melalui celah port yang terbuka, menginfeksi ponsel, mencuri kata sandi, mencuri data pribadi kita, dan lain-lain.</p>
+  <p>Oleh sebab itu jangan terpancing dengan WiFi Gratisan di area publik ya, karena disitu kita tidak tau apa yang akan terjadi nantinya. Usahakan jika mau keluar harus mempunyai paket data ya gaes.</p>
+</ol>
+ <p>Demikian artikel ini mengenai <strong>Tanda Ponsel Terkena Virus</strong> . Semoga dengan artikel ini Anda sebagai pengguna ponsel mobile lebih waspada lagi, dan jangan terpancing hal yang aneh-aneh dari situs tidak dipercaya. Semoga informasi ini bermanfaat buat Anda semua.</p>
+
+
+                      <div class="post-options">
+                        <div class="row">
+                          <div class="col-6">
+                            <ul class="post-tags">
+                              <li><i class="fa fa-tags"></i></li>
+                              <li><a href="#">Internet</a>,</li>
+                              <li><a href="#">Tutorial</a></li>
+                            </ul>
+                          </div>
+                          <div class="col-6">
+                            <ul class="post-share">
+                              <li><i class="fa fa-share-alt"></i></li>
+                              <li><a href="#">Facebook</a>,</li>
+                              <li><a href="#"> Twitter</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item comments">
+                    <div class="sidebar-heading">
+                      <h2>0 comments</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item submit-comment">
+                    <div class="sidebar-heading">
+                      <h2>Your comment</h2>
+                    </div>
+                    <div class="content">
+                      <form id="comment" action="#" method="post">
+                        <div class="row">
+                          <div class="col-md-6 col-sm-12">
+                            <fieldset>
+                              <input name="name" type="text" id="name" placeholder="Your name" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-md-6 col-sm-12">
+                            <fieldset>
+                              <input name="email" type="text" id="email" placeholder="Your email" required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-md-12 col-sm-12">
+                            <fieldset>
+                              <input name="subject" type="text" id="subject" placeholder="Subject">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <textarea name="message" rows="6" id="message" placeholder="Type your comment" required=""></textarea>
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <button type="submit" id="form-submit" class="main-button">Submit</button>
+                            </fieldset>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="sidebar">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="sidebar-item search">
+                    <form id="search_form" name="gs" method="GET" action="#">
+                      <input type="text" name="q" class="searchText" placeholder="type to search..." autocomplete="on">
+                    </form>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item recent-posts">
+                    <div class="sidebar-heading">
+                      <h2>Recent Posts</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="tanda-ponsel-terkena-virus">
+                          <h5>Tanda Ponsel Terkena Virus</h5>
+                          <span>Oktober 28, 2020</span>
+                        </a></li>
+                        <li><a href="#">
+                          <h5>Aplikasi Boros Kuota</h5>
+                          <span>Oktober 27, 2020</span>
+                        </a></li>
+                        <li><a href="#">
+                          <h5>Tutorial Nembak WiFi</h5>
+                          <span>Oktober 28, 2020</span>
+                        </a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item categories">
+                    <div class="sidebar-heading">
+                      <h2>Categories</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="#">- Internet</a></li>
+                        <li><a href="#">- Tutorial</a></li>
+                        <li><a href="#">- Networking</a></li>
+                        <li><a href="#">- Creative &amp; Unique</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item tags">
+                    <div class="sidebar-heading">
+                      <h2>Tag Clouds</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="#">Internet</a></li>
+                        <li><a href="#">Tutorial</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="social-icons">
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="https://www.instagram.com/abpj77">Instagram</a></li>
+              <li><a href="#">Linkedin</a></li>
+              <li><a href="#">Dribbble</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-12">
+            <div class="copyright-text">
+              <p>&#169;Copyright 2020 Sangito. <img class="icon-hati" src="https://2.bp.blogspot.com/-Q7t23NL2aQU/XxiI1nT6uQI/AAAAAAAAI0s/YV_qtxqJwWw5NmU3UOrDwGwDGVNxPBIlwCLcBGAsYHQ/s320/I-Love-You.gif"/></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/accordions.js"></script>
+
+
+    <script language = "text/Javascript"> 
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t){                   //declaring the array outside of the
+      if(! cleared[t.id]){                      // function makes it static and global
+          cleared[t.id] = 1;  // you could use true and false, but that's more typing
+          t.value='';         // with more chance of typos
+          t.style.color='#fff';
+          }
+      }
+    </script>
+
+
+  </body>
+
+</html>
