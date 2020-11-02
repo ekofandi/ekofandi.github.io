@@ -705,18 +705,18 @@ ul.page-numbers li a:hover {
 	margin-top: 0px;
 }
 
-.sidebar .searchText button {
+.sidebar .sidebar-item button {
 	float: right;
   	padding: 6px 10px;
-  	margin-top: 8px;
-  	margin-right: 16px;
+  	margin-top: 50px;
+  	margin-right: 20px;
   	background: #ddd;
   	font-size: 17px;
   	border: none;
   	cursor: pointer;
 }
 
-.sidebar .searchText button:hover {
+.sidebar .sidebar-item button:hover {
 	background: #ccc;
 } 
 
