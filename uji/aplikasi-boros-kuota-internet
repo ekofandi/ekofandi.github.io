@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
+
+    <title>Sangito Blog - Post Details</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/style-utama.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+
+  </head>
+
+  <body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+
+    <!-- Header -->
+    <header class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"><h2>Sangito Blog<em>.</em></h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="blog.html">Blog</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Post Details</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Page Content -->
+    <!-- Banner Starts Here -->
+    <div class="heading-page header-text">
+    </div>
+    
+    <!-- Banner Ends Here -->
+
+    <section class="blog-posts grid-system">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="all-blog-posts">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="blog-post">
+                    <div class="blog-thumb">
+                      <img src="assets/images/virus.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+                      <span>Internet</span>
+                      <a href="post-details.html"><h4>Aplikasi Boros Kuota Internet</h4></a>
+                      <ul class="post-info">
+                        <li><a href="#">Admin</a></li>
+                        <li><a href="#">Oktober 22, 2020</a></li>
+                        <li><a href="#">0 Comments</a></li>
+                      </ul>
+
+                      <div class="text-wrap text-justify">
+ <p>Ponsel Android merupakan perangkat yang sangatlah canggih. Namun dibalik kecanggihannya, tidak bisa terlepas dari yang namanya internet ya kan. Bagi pengguna ponsel kamu pasti tidak asing lagi kan dengan istilah kuota internet. Hal ini dikarenakan kuota data internet dibutuhkan untuk menghasilkan koneksi internet.</p>
+ <p>Tapi pernahkan kamu? Mengalami kehabisan paket data internet padahal belum lama diisi? Hati-hati bisa jadi itu dikarenakan ada aplikasi yang mengonsumsi banyak data di ponsel kita. Meskipun sedang tidak kamu gunakan sama sekali, aplikasi ini bisa menyedot kuota internet cukup banyak. Eh jadi inget lagunya Denny Caknan nih, "cek paket datane, yen entek tak tukokne" asikk.</p>
+ <p>Pasti ini yang User WiFi tertawa membaca ini ya kan :) loh kenapa bisa? Iya karena kan WiFi menggunakan paket <em>Unlimited</em> jadi tidak ada habisnya, namun ingat di awal bulan harus bayar tagihan biar internetnya tidak diputus. Oke langsung saja dah ke intinya inti, yaitu tentang aplikasi boros kuota.</p>
+ <p>Apa sajakah aplikasi yang bikin kuota internet boros? Berikut ulasan lengkapnya.</p>
+
+<h2><strong>Aplikasi yang Bikin Boros Kuota</strong></h2>
+
+<ol>
+ <li><strong>YouTube</strong></li>
+   <img alt="Youtube" height="720" layout="responsive" src="https://4.bp.blogspot.com/-cG-yOyf-HHQ/X10SIVlwL0I/AAAAAAAAJWg/G2vBfvq4xYUFmj-zLshMlu2x77h1C7clwCLcBGAsYHQ/s1600-rw/youtube.jpg" title="Youtube" width="720"></img>
+    <p style="text-align: center;">
+       Sumber foto: <em>freepik.com</em></p>
+  <p>Kalau aplikasi satu ini pastinya menjadi dalang borosnya kuota ya. Kita semua tahu kalau memutar video di YouTube akan memakan banyak kuota internet. Dilansir dari laman <strong>Canstar Blue</strong>, memutar video beresolusi 480p selama satu jam akan menghabiskan 264 MB data. Jika resolusi yang dipilih adalah 720p (HD) maka akan menguras 870 MB data dalam sejam sedangkan 1080p (Full HD) akan memakan 1,65 GB data.</p>
+  <p>Coba deh kalian simak data berikut yang kami rangkum dibawah.</p>
+   <table border="1" cellspacing="0" cellpadding="0">
+   <tbody>
+   <tr style="height: 13.1pt; mso-yfti-firstrow: yes; mso-yfti-irow: 0;">
+   <td style="background: #BFBFBF; height: 13.1pt; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit;"><b><span style="font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">Kualitas Video YouTube</span></b></span></div>
+   </td>
+   <td style="background: #BFBFBF; height: 13.1pt; mso-background-themecolor: background1; mso-background-themeshade: 191; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit;"><b><span style="font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">Konsumsi Data Per Jam</span></b></span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 1;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">144p</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">90MB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 2;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">240p</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">225MB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 3;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">360p</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">315MB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 4;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">480p</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">562.5MB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 5;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">720p 30FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">1.24GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 14.15pt; mso-yfti-irow: 6;">
+   <td style="height: 14.15pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">720p 60FPS</span></div>
+   </td>
+   <td style="height: 14.15pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">1.86GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 7;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">1080p 30FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">2.03GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 8;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">1080p 60FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">3.04GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 8;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">1440p (2K) 30FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">4.28GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 8;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">1440p (2K) 60FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">6.08GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 8;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">2160p (4K) 30FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">10.58GB</span></div>
+   </td>
+   </tr>
+   <tr style="height: 13.65pt; mso-yfti-irow: 8;">
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">2160p (4K) 60FPS</span></div>
+   </td>
+   <td style="height: 13.65pt; padding: 0cm 0cm 0cm 0cm;">
+   <div style="margin-bottom: 0.0001pt; text-align: center;" align="center"><span style="font-family: inherit; font-size: 12.0pt; mso-fareast-font-family: 'Times New Roman';">15.98GB</span></div>
+   </td>
+   </tr>
+   </tbody>
+   </table>
+  <p>Nah, kalian sudah lihat kan berapa banyak data internet yang dihabiskan untuk menonton video YouTube ini. Untuk mencegah agar tidak boros data, buka YouTube lalu ketuk <em>Profile</em> di sudut kanan atas. Setelah itu, pilih <code>Pengaturan</code> > <code>Umum</code> > <code>Batasi Penggunaan Kuota Seluler</code>. Langkah selanjutnya geser tombol menjadi Mode ON dan kita akan melakukan <em>Streaming</em> video HD lewat WiFi saja. Dengan ini, kalian tidak akan menghabiskan banyak data kalian.</p>
+ <li><strong>Instagram</strong></li>
+   <img alt="Instagram" height="720" layout="responsive" src="https://4.bp.blogspot.com/-ST__9HysLos/X10UES5DSvI/AAAAAAAAJWs/bNih95_bGgM_ivZN2PISBZ-4DifFs7L1wCLcBGAsYHQ/s1600-rw/instagram.png" title="Instagram" width="720"></img>
+  <p>Aplikasi selanjutnya adalah Instagram. Ya benar, media sosial yang berbasis foto dan video ini tentunya lebih memakan banyak kuota dibandingkan media sosial lainnya, ditambah lagi Instagram ini dilengkapi dengan fitur keren seperti <em>Stories, Live, dan lainnya</em>.</p>
+  <p>Data kita habis ketika menonton video di Instagram, entah itu video berdurasi 59 menit, dan IGTV. Akan tetapi Instagram memiliki fitur <strong>Preloading</strong> video saat memakai data seluler.</p>
+   <img alt="Instagram Setting" height="720" layout="responsive" src="https://4.bp.blogspot.com/-It4-8gFNNQQ/X10U7sLVpOI/AAAAAAAAJW0/1KUM4fHnpTsnPZ0S9Z71KXyuXCliQ4hZgCLcBGAsYHQ/s1600-rw/instagram-setting.jpeg" title="Instagram Setting" width="720"></img>
+    <p style="text-align: center;">
+       Sumber foto: <em><a href="https://www.instagram.com/abpj77/" title="" target="_blank">@abpj77</a></em></p>
+  <p>Nah untuk cara menghematnya cukup mudah sekali. Buka aplikasi Instagram lalu buka <code>Profil</code> > <code>Pengaturan</code> > <code>Akun</code> > <code>Penggunaan Data Seluler</code>. Lalu aktifkan mode Penghemat Data dan Instagram akan memutar media beresolusi tinggi dengan menggunakan WiFi saja.</p>
+ <li><strong>Facebook</strong></li>
+   <img alt="Facebook" height="720" layout="responsive" src="https://2.bp.blogspot.com/-J2QOKlsuotQ/X10XJWWFaRI/AAAAAAAAJXI/EvqA4jS0lpgijrMa6VOhzh01DqPpTvIzgCLcBGAsYHQ/s1600-rw/facebook.png" title="Facebook" width="720"></img>
+  <p>Mirip seperti Instagram, Facebook juga menampilkan konten berbasis foto dan video yang akan diputar otomatis <em>(autoplay)</em> ketika kalian main Facebook dan membuat paket data kita cepat habis.</p>
+  <p>Siapa disini yang masih suka buka Facebook? Meski jarang membuka Facebook, tetapi aplikasi ini bisa menyedot data internet kita. Tenang saja, disini kalian bisa membatasi pemutaran video secara otomatis hanya menggunakan WiFi. Maaf disini saya sudah tidak bermain Facebook lagi, jadi untuk settingannya saya ambil dari sumber internet saja yo.</p>
+  <p>Berikut adalah caranya, pertama buka aplikasi Facebook kalian, lalu klik icon tiga garis di bagian kanan atas. Jika sudah, <em>Scroll</em> ke bawah lalu pilih <code>Pengaturan</code> > <code>Pengaturan Akun</code> > <code>Video dan Foto</code> > <code>Autoplay</code>. Jika sudah pilih <code>On WiFi Connections Only</code> atau <code>Never Autoplay Videos</code>.</p>
+ <li><strong>Twitter</strong></li>
+   <img alt="Twitter" height="720" layout="responsive" src="https://4.bp.blogspot.com/-9MGV8Q09h54/X10W38idQvI/AAAAAAAAJXA/sbSYlJKUsr8LQJ9XUEX9vfkmVpeJtLfqwCLcBGAsYHQ/s1600-rw/twitter.jpg" title="Twitter" width="720"></img>
+  <p>Lagi dan lagi autoplay dalangnya. Konten video di Twitter akan berputar otomatis ketika kalian melihatnya di timeline Twitter. Meskipun Twitter adalah media sosial berbasis teks dan cuitan singkat, kita juga bisa menggunggah foto dan video ke Twitter.</p>
+  <p>Nah untuk menghemat data seluler dan mematikan fitur <em>autoplay</em> bisa di praktekkan berikut caranya. Buka aplikasi Twitter dan pilih <code>Pengaturan dan privasi</code> > <code>Pemakaian Data</code>. Nah disini kalian bisa memilih mencentang <em>penghemat data</em> agar video tidak akan diputar otomatis dan kualitas yang akan dimuat akan lebih rendah. Dan kalian bisa mensetting kualitas tinggi dengan menggunakan WiFi atau data seluler.</p>
+ <li><strong>Spotify</strong></li>
+   <img alt="" height="720" layout="responsive" src="https://1.bp.blogspot.com/-tgq_oB0_vt4/X10XYmmoGoI/AAAAAAAAJXM/dy1lazAsJfoYX92C1wYd2A7fcF9A76bhgCLcBGAsYHQ/s1600-rw/spotify.png" title="" width="720"></img>
+    <p style="text-align: center;">
+       Sumber foto: <em>freepik.com</em></p>
+  <p>Aplikasi ini pemutar musik memang menjadi salah satu favorit banyak semua orang untuk mendengarkan lagu, bahkan beberapa orang sudah ada yang berlangganan fitur Premium demi bisa menikmati musik tanpa adanya gangguan iklan.</p>
+  <p>Nah untuk kalian yang ingin hemat data internet, ada cara lain yang bisa akali demi menghemat data, yakni dengan membuat album tersedia secara <em>Offline</em>. Akan tetapi ini bisa dilakukan jika kalian adalah pelanggan Spotify Premium, saran ini dari laman <a href="https://www.cnet.com/how-to/apps-that-use-the-most-data/" title="Baca Selanjutnya" target="_blank">Cnet</a>.</p>
+ <li><strong>Netflix</strong></li>
+   <img alt="Netflix" height="720" layout="responsive" src="https://3.bp.blogspot.com/-fAENMi9Mi44/X10X7a3ro7I/AAAAAAAAJXY/J-W2aKJSVakMBUewlb_VH4fQ8OzFLCrZACLcBGAsYHQ/s1600-rw/netflix.jpg" title="Netflix" width="720"></img>
+    <p style="text-align: center;">
+       Sumber foto: <em>freepik.com</em></p>
+  <p>Nah pasti kalian tau Netflix kan? Dan biasanya kita menonton lewat laptop ataupun PC dengan menggunakan koneksi WiFi. Namun ada kalanya kita ingin pindah ke <em>smartphone</em>, apalagi jika kamu lagi fokus nonton film yang lagi diikuti sambil rebahan ya kan, jujur saja deh.</p>
+  <p>Akan tetapi untuk menonton di <em>smartphone</em>, kamu bisa menurunkan kualitas videonya agar tidak boros data internetnya. Caranya adalah dengan buka aplikasi Netflix kalian, lalu ketuk icon tiga garis di bagian kiri atas. Lalu <em>scrool</em> ke bawah dan pilih <code>Pengaturan Aplikasi</code> > <code>Penggunaan Data Seluler</code>. Matikan set otomatis dan pilihlah kualitas <em>streaming</em> sedang atau rendah ketika sedang memakai data seluler.</p>
+  <p><strong>Perhatian:</strong> kamu bisa menonton 4 jam hanya menghabiskan data seluler sebesar 1 GB saja.</p>
+</ol>
+
+<div class="text-wrap text-justify">
+ <p>Nah, itulah tadi beberapa aplikasi pemboros data seluler kita. Setelah membaca artikel ini dan sudah tahu cara mengatasinya, mudah-mudahan data seluler kalian tidak boros lagi yo. Dan semoga artikel ini bermanfaat.</p>
+</div>
+
+
+                      <div class="post-options">
+                        <div class="row">
+                          <div class="col-6">
+                            <ul class="post-tags">
+                              <li><i class="fa fa-tags"></i></li>
+                              <li><a href="#">Internet</a>,</li>
+                              <li><a href="#">Gadget</a></li>
+                              <li><a href="#">Teknologi</a></li>
+                            </ul>
+                          </div>
+                          <div class="col-6">
+                            <ul class="post-share">
+                              <li><i class="fa fa-share-alt"></i></li>
+                              <li><a href="#">Facebook</a>,</li>
+                              <li><a href="#"> Twitter</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item comments">
+                    <div class="sidebar-heading">
+                      <h2>0 comments</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item submit-comment">
+                    <div class="sidebar-heading">
+                      <h2>Your comment</h2>
+                    </div>
+                    <div class="content">
+                      <form id="comment" action="#" method="post">
+                        <div class="row">
+                          <div class="col-md-6 col-sm-12">
+                            <fieldset>
+                              <input name="name" type="text" id="name" placeholder="Masukkan Nama.." required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-md-6 col-sm-12">
+                            <fieldset>
+                              <input name="email" type="text" id="email" placeholder="Masukkan Email.." required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-md-12 col-sm-12">
+                            <fieldset>
+                              <input name="subject" type="text" id="subject" placeholder="Ketikkan Subject Anda..">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <textarea name="message" rows="6" id="message" placeholder="Ketikkan Komentar Anda.." required=""></textarea>
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <button type="submit" id="form-submit" class="main-button">Kirim</button>
+                            </fieldset>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="sidebar">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="sidebar-item search">
+                    <form id="search_form" name="gs" method="GET" action="#">
+                      <input type="text" name="q" class="searchText" placeholder="Kata Kunci..." autocomplete="on">
+                    </form>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item recent-posts">
+                    <div class="sidebar-heading">
+                      <h2>Recent Posts</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="tanda-ponsel-terkena-virus">
+                          <h5>Tanda Ponsel Terkena Virus</h5>
+                          <span>Oktober 28, 2020</span>
+                        </a></li>
+                        <li><a href="#">
+                          <h5>Aplikasi Boros Kuota</h5>
+                          <span>Oktober 27, 2020</span>
+                        </a></li>
+                        <li><a href="#">
+                          <h5>Tutorial Nembak WiFi</h5>
+                          <span>Oktober 28, 2020</span>
+                        </a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item categories">
+                    <div class="sidebar-heading">
+                      <h2>Categories</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="#">- Internet</a></li>
+                        <li><a href="#">- Tutorial</a></li>
+                        <li><a href="#">- Networking</a></li>
+                        <li><a href="#">- Creative &amp; Unique</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item tags">
+                    <div class="sidebar-heading">
+                      <h2>Tag Clouds</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="#">Internet</a></li>
+                        <li><a href="#">Tutorial</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="social-icons">
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="https://www.instagram.com/abpj77">Instagram</a></li>
+              <li><a href="#">Linkedin</a></li>
+              <li><a href="#">Dribbble</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-12">
+            <div class="copyright-text">
+              <p>&#169;Copyright 2020 Sangito. <img class="icon-hati" src="https://2.bp.blogspot.com/-Q7t23NL2aQU/XxiI1nT6uQI/AAAAAAAAI0s/YV_qtxqJwWw5NmU3UOrDwGwDGVNxPBIlwCLcBGAsYHQ/s320/I-Love-You.gif"/></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/accordions.js"></script>
+
+
+    <script language = "text/Javascript"> 
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t){                   //declaring the array outside of the
+      if(! cleared[t.id]){                      // function makes it static and global
+          cleared[t.id] = 1;  // you could use true and false, but that's more typing
+          t.value='';         // with more chance of typos
+          t.style.color='#fff';
+          }
+      }
+    </script>
+
+
+  </body>
+
+</html>
