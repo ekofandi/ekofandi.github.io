@@ -572,7 +572,7 @@ ul.page-numbers li a {
 ul.page-numbers li.active a {
 	background-color: #f48840;
 	border-color: #f48840;
-	color: #fff;
+	color: #ffffff;
 }
 
 ul.page-numbers li a:hover {
