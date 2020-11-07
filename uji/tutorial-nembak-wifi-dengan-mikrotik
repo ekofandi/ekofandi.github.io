@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
+
+    <title>Sangito Blog - Aplikasi Boros Kuota Internet</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/style-utama.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+
+  </head>
+
+  <body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>  
+    <!-- ***** Preloader End ***** -->
+
+    <!-- Header -->
+    <header class="">
+      <nav class="navbar navbar-expand-lg">
+        <div class="container">
+          <a class="navbar-brand" href="index.html"><h2>Sangito Blog<em>.</em></h2></a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a class="nav-link" href="index.html">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li> 
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">About Us</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="blog.html">Blog</a>
+              </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Post Details</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="contact.html">Contact Us</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!-- Page Content -->
+    <!-- Banner Starts Here -->
+    <div class="heading-page header-text">
+    </div>
+    
+    <!-- Banner Ends Here -->
+
+    <section class="blog-posts grid-system">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8">
+            <div class="all-blog-posts">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="blog-post">
+                    <div class="blog-thumb">
+                      <img src="assets/images/mikrotik.jpg" alt="">
+                    </div>
+                    <div class="down-content">
+                      <span>Internet</span>
+                      <a href="https://ekofandi.github.io/uji/aplikasi-boros-kuota-internet.html"><h4>Aplikasi Boros Kuota Internet</h4></a>
+                      <ul class="post-info">
+                        <li><a href="#">Admin</a></li>
+                        <li><a href="#">Oktober 28, 2020</a></li>
+                        <li><a href="#">0 Comments</a></li>
+                      </ul>
+                    
+                     <div class="text-wrap text-justify">
+ <p>Pengguna wireless internet semakin hari semakin meningkat, dengan meningkatnya penggunaan internat menggunakan perangkat ponsel maupun laptop sebagai media komunikasi dan mencari sumber informasi.</p>
+ <p>Didukung dengan adanya paket data internet yang harga cukup terjangkau dan juga tergantung daerah kalian masing-masing, apakah sinyal operator itu kuat atau justru lemah gak ada sinyal. Ada juga banyak jasa ISP yang mulai banting harga untuk terus eksis agar bisnisnya tetap jalan sebagai internet costumer.</p>
+ <p>Dengan susahnya sinyal operator dan murahnya harga akses internet tersebut, banyak keluarga untuk memutuskan memasang sendiri jaringan WiFi menggunakan jasa ISP Fiber di daerah masing-masing. </p>
+ <p>Hal itu dilakukan jika dirumah kalian itu susah sinyal, dan juga untuk menghemat pemakaian kuota data seluler keluarga kalian, maka pengeluaran untuk membeli data sangat banyak. Maka kalian bisa beralih ke jasa ISP, untuk menghemat pemakaian, dan juga seluruh anggota keluarga bisa mengaksesnya juga.</p>
+ <p>Bayangkan saja nih, jika dirumah kalian susah sinyal, ditambah lagi dengan adanya korona begini pasti bosan dan butuh hiburan untuk melakukan Streaming dan Download. Jika kalian yang tidak mengalami susah sinyal jangan bangga dulu, coba kalian bayangkan habis berapa kuota data yang kalian gunakkan setiap hari? </p>
+ <p>Apabila satu keluarga hanya mengandalkan kuota data pribadi masing-masing untuk melakukan aktifitas sehari-hari, tentu saja ini sudah pemborosan biaya, apalagi biaya hidup semakin mahal yakan :(</p>
+ <p>Dengan berlangganan akses internet dari jasa ISP yang murah dan tentu saja <em>Unlimited</em>, maka penggunaan biaya internet keluarga kalian akan lebih irit, dan bisa buat kebutuhan sehari-hari juga kan.</p>
+ <p>Ada beberapa jasa ISP yang ada di Indonesia, mungkin di daerah kalian ada bisa kalian telpon untuk memasangkannya. Berikut adalah daftar jasa ISP di Indonesia <em>Biznet, Indihome, MNC Play Media, dan lain-lain</em>. Untuk lokalan daerah Kota Batik, bisa ke Winnet Connection <em>(Dexa Network)</em>.</p>
+ <p>Jika kalian kaum golongan gratisan, tidak mau keluar modal sama sekali, bobol aja sana WiFi tetangga kalian. Jangan tanya saya tentang, <strong>"bang gimana cara bobol WiFi?</strong> Pikir sendiri dan usaha sendiri. </p>
+ <p>Kalau mau tau caranya saya kasih tau, datang ke yang punya WiFi, bertamu yang baik bawakan buwuhan (suguhan) kepada yang punya. Lalu tanyakan baik-baik <em>Password</em> WiFi-nya pasti dikasih kok :) <br /> Nah jika sudah silahkan baca ini untuk memperkuat sinyal WiFi dirumah kalian. Ucapkan terima kasih ke yang punya WiFi, jangan asal pergi aja ya.</p>
+ <p>Oke masuk ke intinya inti, ahlinya ahli. Kali ini saya akan membahas bagaimana sih caranya menembak WiFi milik tetangga lalu menyebarkan-nya kembali. Cara ini saya menggunakan Mikrotik, selain itu saya gak tau.</p>
+</div>
+<div class="text-wrap text-justify">
+<h2><strong>cara menembak WiFi lalu menyebarkan-nya kembali</strong></h2>
+<ol>
+ <li>Buka Winbox.</li>
+  <p>Silahkan buka Winbox lalu login seperti biasanya.</p>
+   <img alt="Login Winbox" height="420" layout="responsive" src="https://3.bp.blogspot.com/-yjOMczKvxwA/X1Y9bXdawRI/AAAAAAAAJQA/HZ4PqSKx7p0L2Aqbvz7rhrEWvifbJJW5wCLcBGAsYHQ/s1600-rw/login-winbox.PNG" title="Login Winbox" width="500"></img>
+
+ <li>Jika sudah tampilannya akan seperti dibawah ini.</li>
+   <img alt="Halaman Utama Winbox" height="420" layout="responsive" src="https://2.bp.blogspot.com/-fBfrW6BFR94/X1Y-CfjE-HI/AAAAAAAAJQI/he-aHWzm0sUMbsNesod9-0lpOgLI4zYmACLcBGAsYHQ/s1600-rw/halaman-utama-winbox.PNG" title="Halaman Utama Winbox" width="500"></img> 
+
+ <li>Masuk ke Menu <code>Wireless</code>. Maka tampilan menunya seperti berikut.</li>
+   <img alt="Menu Wireless" height="420" layout="responsive" src="https://1.bp.blogspot.com/-Lz9fqLDZ6bo/X1Y_Kh5wbEI/AAAAAAAAJQU/8tMzJdYsGioOYnyRjDtInIAQ1oRJ-X-lQCLcBGAsYHQ/s1600-rw/menu-wireless.PNG" title="Menu Wireless" width="600"></img>
+
+ <li>Silahkan kalian klik tombol <code>Centang</code> yang fungsinya untuk men-enable Wlan1.</li>
+   <img alt="Tombol Centang" height="420" layout="responsive" src="https://3.bp.blogspot.com/-OTU-fHrqilo/X1ZUieXaDYI/AAAAAAAAJRw/wenSttH66cIoGbI92CkBaOVnwAMtx3KRQCLcBGAsYHQ/s1600-rw/tombol-centang.PNG" title="Tombol Centang" width="500"></img>
+
+ <li>Jika sudah kalian klik tombol centang, kalian klik dua kali pada menu Wlan1, dan nantinya akan muncul menu baru.</li>
+
+ <li>Nah jika sudah, kalian masuk ke menu <code>Wireless</code>, dan kemudian kalian cari menu <code>Scan</code>. Fungsi dari scan adalah untuk men-scan SSID yang ada disekitar rumah, kosan kalian, dan nantinya kalian simak aja deh dulu.</li>
+   <img alt="Wireless Interface" height="420" layout="responsive" src="https://4.bp.blogspot.com/-Um9x2k17q2k/X1ZFBOH4GNI/AAAAAAAAJQw/x5EMsHZOKrwRva3equmUQHeDU8YlkxwgwCLcBGAsYHQ/s1600-rw/wireless-interface.PNG" title="Wireless Interface" width="500"></img>
+
+ <li>Jika sudah masuk ke menu scan, lalu kalian klik <code>Start</code> tunggu hingga proses scan selesai. Jika sudah selesai, kalian pilih SSID yang kalian tau passwordnya, disini saya memilih SSID <em>"HOME_CONNECTION"</em> milik saya sendiri. Lalu jika sudah pilih SSID kalian klik <code>Connect</code>.</li>
+   <img alt="Scan WiFi" height="420" layout="responsive" src="https://3.bp.blogspot.com/-E1OuUjIRaZU/X1ZFeZi8vTI/AAAAAAAAJQ4/OfISNqF43zoyJyhnSMLI7bYY1nh_4idEACLcBGAsYHQ/s1600-rw/scan-wifi.PNG" title="Scan WiFi" width="500"></img>
+
+ <li>Jika proses scan SSID sudah selesai, maka hasilnya akan seperti berikut ini. Dengan SSID yang awalnya "MikroTik" berubah menjadi "HOME_CONNECTION". Jika sudah selesai klik Apply lalu klik OK.</li>
+   <img alt="Hasil Nembak WiFi" height="420" layout="responsive" src="https://4.bp.blogspot.com/-6zmiXYk9f4Q/X1ZHwMqZGaI/AAAAAAAAJRE/tAEM8WD_KUoPVxURBGO7JBkYU_DLlsfVQCLcBGAsYHQ/s1600-rw/hasil-nembak-wifi.PNG" title="Hasil Nembak WiFi" width="500"></img>
+
+ <li>Coba perhatikan baik-baik, akan ada perubahan di bagian table Wireless Interfaces. Yang tadinya tanpa huruf "R" dan jika sudah di setting akan ada notif huruf "R" dibagian depan, arti dari "R" disini adalah Running, berarti sudah jalan dengan baik alias terkoneksi. Untuk contoh gambarnya seperti dibawah.</li>
+   <img alt="Running" height="320" layout="responsive" src="https://3.bp.blogspot.com/-3Jr3aGwwPl8/X1ZJCBc9KkI/AAAAAAAAJRM/L9HuZr61-fYA86NseOGKw_uYpyKcPMtZwCLcBGAsYHQ/s1600-rw/Running.PNG" title="Running" width="550"></img>
+
+ <li>Lanjut gan, masuk ke menu <code>Security Profiles</code>.</li>
+   <img alt="Menu Wireless Security" height="300" layout="responsive" src="https://3.bp.blogspot.com/-sCjVPWRjl5I/X1ZJnrW9AUI/AAAAAAAAJRY/e85tOhJ32ewyZGgnePjyv-ZBk0mboxCcACLcBGAsYHQ/s1600-rw/menu-wireless-security.PNG" title="Menu Wireless Security" width="600"></img>
+
+ <li>Klik dua kali pada menu <em>default</em>, maka akan muncul halaman baru yaitu <em>Security Profile</em>. Nah saat kalian baru membuat, biasanya untuk Mode akan berada di posisi <strong>none</strong> dan kalian rubah saja ke <strong>dynamic keys</strong>. Nah jika sudah pilih dynamic keys, kalian tinggal centang pada menu <code>Authentication Types</code> terserah mau pakai <em>WPA PSK, WPA 2 PSK, WPA EAP, WPA2 EAP</em>. Untuk masukkan passwordnya ada dibagian <code>WPA Pre-Shared Key</code> dan <code>WPA2 Pre-Shared Key</code>. Jika sudah klik Apply dan klik OK. <strong>Perhatian</strong> Untuk pengertiannya akan saya jelaskan dibawah. Dan untuk pengertian WPA tidak usah, pasti kalian sudah tau semua kan.</li>
+   <img alt="Menu Security Profile" height="420" layout="responsive" src="https://4.bp.blogspot.com/-zMb3UGqJHbI/X1ZLfhYmajI/AAAAAAAAJRk/29cNuVPXCCIqog1M-MsDaiqvVwxoVd4JwCLcBGAsYHQ/s1600-rw/menu-security-profile.PNG" title="Menu Security Profile" width="500"></img>
+</ol>
+<ul>
+ <li><strong>Dynamic keys</strong> adalah untuk memberikan password pada WiFi kita nanti.</li>
+ <li><strong>None</strong> adalah kosong. Kosong yang dimaksud adalah tanpa password, biasanya ini kita temui pada SSID @wifi.id yang tanpa password, dan memerlukan login page untuk bisa koneksi internet.</li>
+ <li>Untuk 2 Menu pilihan <em>Statistic keys optional</em> dan <em>Statistic keys required</em> saya kurang mengetahuinya, maaf ya.</li>
+</ul>
+
+
+<ol start="12">
+ <li>Lanjut. Kalian cari menu IP, lalu cari menu DHCP Client.</li>
+   <img alt="Menu DHCP Client" height="400" layout="responsive" src="https://1.bp.blogspot.com/-2clLKg_smGs/X1ZZcUzSS8I/AAAAAAAAJR8/nXrgy5YFJbsAIW4El3s3bhgrNoY4BvkqACLcBGAsYHQ/s1600-rw/menu-dhcp-client.PNG" title="Menu DHCP Client" width="500"></img>
+
+ <li>Jika sudah muncul halaman baru DHCP Client, kalian klik tombol <code>+</code>. Fungsinya yaitu <code>+</code> untuk membuat baru, sedangkan <code>-</code> untuk me-remove halaman.</li>
+   <img alt="Tombol Plus" height="420" layout="responsive" src="https://4.bp.blogspot.com/-fzbbEcUe5Fo/X1Y_0dCUqgI/AAAAAAAAJQc/LpHJw0KhrIkI3148g5ga-5NJqDD7yfRjgCLcBGAsYHQ/s1600-rw/tombol-plus-plus.PNG" title="Tombol Plus" width="500"></img>
+  
+ <li>Jika sudah klik tombol plus tadi, maka akan muncul halaman baru lagi yaitu <code>New DHCP Client</code>. Kalian klik pada menu <em>Interface</em> nah disitu kan ada tombol drop-down tuh, kalian pilih <code>Wlan1</code>. Kenapa Wlan1, karena posisi internet kita ada di Wlan1. Jika sudah klik Apply dan klik OK.</li>
+   <img alt="Buat DHCP Client" height="420" layout="responsive" src="https://2.bp.blogspot.com/-HIZA9-0hwO0/X1ZabPVYDXI/AAAAAAAAJSE/9Ov8BX_2UdYaqtG23Y1xCDiuEYg-JBJAQCLcBGAsYHQ/s1600-rw/buat-dhcp-client.PNG" title="Buat DHCP Client" width="500"></img>
+  
+ <li>Maka hasilnya akan seperti ini, dan status berubah menjadi Bound.</li>
+   <img alt="Status bound" height="300" layout="responsive" src="https://4.bp.blogspot.com/-8Q7DrhAerGA/X1ZasqBHCFI/AAAAAAAAJSM/G1PiHMgzG4Mx3XHYPX-EF5oRZYcv4DHyQCLcBGAsYHQ/s1600-rw/status-bound.PNG" title="Status bound" width="600"></img>
+  
+ <li>Kembali lagi ke menu <code>Wireless</code>, kalian klik tombol plus untuk buat baru, dan pilih <code>Virtual</code>.</li>
+   <img alt="Menu Pilihan" height="420" layout="responsive" src="https://2.bp.blogspot.com/-I2HALoUP9UU/X1ZdeXyYZ1I/AAAAAAAAJSY/O-GV06jhOEgkM-R_kYdi07svEuP4sX2RgCLcBGAsYHQ/s1600-rw/Menu-pilihan.jpeg" title="Menu Pilihan" width="500"></img>
+  
+ <li>Jika sudah klik virtual biasanya akan langsung masuk ke menu baru kan, kalau tidak salah menu <code>New Interface</code>. Nah caranya sama seperti langkah diatas nomor 6 tadi, masuk ke menu <code>Wireless</code>, ubah Mode yang tadinya Station menjadi AP Bridge. Lalu isikan SSID sesuka kalian, disini saya isi <em>"Mikrotik.id"</em>. Nah coba kalian simak baik-baik, ada tambahan kah pada langkah ini? Ya benar disini saya centang tuh bagian <strong>Hide SSID</strong>, yang fungsinya untuk meng-hidden SSID biar tidak dibobol tuyul gratisan gak modal :( <br /> Jika sudah klik Apply dan klik OK.</li>
+   <img alt="Buat SSID Baru" height="420" layout="responsive" src="https://3.bp.blogspot.com/-8uTNrU2KTxQ/X1Zd4PRbVHI/AAAAAAAAJSg/bPhNE_bfxHMiRzydUZ7ihtVFYmVNodk4ACLcBGAsYHQ/s1600-rw/buat-seperti-ini.PNG" title="Buat SSID Baru" width="500"></img>
+  
+ <li>Sama seperti langkah sebelumnya, masuk lagi ke menu <code>Security Profiles</code> dan klik tombol plus untuk membuat baru. Nah diposisi ini tidak ada perubahan, kalian hanya mengisi password untuk SSID tadi yang kalian buat. Intinya kita akan membuat password untuk SSID saya yaitu <em>(Mikrotik.id)</em>.</li>
+   <img alt="Buat Password Baru" height="420" layout="responsive" src="https://3.bp.blogspot.com/-rKr6R9Fu5N0/X1ZhAk4boWI/AAAAAAAAJSs/Rjir7fq_WtMzx4pYUyyOi9HxnK9TncxIwCLcBGAsYHQ/s1600-rw/buat-password-security.PNG" title="Buat Password Baru" width="500"></img>
+ 
+ <li>Dan hasilnya akan seperti ini. Disini kalian ingat betul-betul ya, coba deh kalian lihat dan teliti baik baik, ada nama Default dan profile1 kan disitu. Nah disitu lah nanti akan berpengaruh pada langkah selanjutnya, kalian lihat dan hafalin betul-betul nama tersebut.</li>
+   <img alt="" height="300" layout="responsive" src="https://3.bp.blogspot.com/-h2GyEG7xJxA/X1ZiaVavgyI/AAAAAAAAJS4/kUDD3FEdkSghpC-3VGhu2kst4yIx7JM5gCLcBGAsYHQ/s1600-rw/perhatikan-namanya.PNG" title="" width="600"></img>
+
+ <li>Kembali lagi ke menu <code>WiFi Interfaces</code>, lalu klik 2 kali pada Wlan2, rubah mode <code>Security Profile</code> yang tadinya <em>Default</em> menjadi profile1. Kenapa kok profile1? Kan sebelumnya kalian sudah buat tuh password baru di menu <code>Security Profiles</code> kan. Itulah beberapa cara yang agak ribet dan rumit jika kalian membacanya tapi tidak mempraktekkannya langsung. Jika praktek langsung kalian pasti paham apa yang saya maksudkan disini.</li>
+   <img alt="Ubah Security Profile" height="300" layout="responsive" src="https://1.bp.blogspot.com/-uaxd7hXEHBM/X1ZiwpFsGtI/AAAAAAAAJTA/glT1evBtYboH7zQ81JfX4Qj6HabdjaUwgCLcBGAsYHQ/s1600-rw/rubah-security-profile.PNG" title="Ubah Security Profile" width="550"></img>
+
+ 
+ <li>Lanjut, kalian masuk ke menu IP lalu cari Address. Kalian pada tahap ini hanya perlu setting IP Address-nya saja. Isi 2 IP, satu untuk Wlan2, satunya lagi untuk Ether2. Nah, seperti biasa kalian klik tombol plus, lalu isikan IP Addressnya terserah kalian, mau pakai kelas berapa pun bebas. Disini saya mengisi pake kelas C saja deh, biar enak dihafalin. Lalu pilih Interface-nya rubah menjadi Wlan2. Untuk Ether2 caranya juga sama kok.</li>
+   <img alt="Buat IP Address" height="420" layout="responsive" src="https://3.bp.blogspot.com/-dMAf1hwlMsY/X1ZjOKQU_KI/AAAAAAAAJTI/NbqHbQdIWbEnJeB2T-kYTtsr-tVpdkvwACLcBGAsYHQ/s1600-rw/buat-ip-address.PNG" title="Buat IP Address" width="500"></img>
+
+ <li>Lanjut gan, kalian masuk ke menu IP lalu cari <code>DHCP Server</code>. </li>
+   <img alt="Menu DHCP Server" height="420" layout="responsive" src="https://1.bp.blogspot.com/-ExK7KYPU16A/X1Zjl9cFZYI/AAAAAAAAJTQ/dh_1g22PBasaLZcgyNP9eJ12tlSVsn4YQCLcBGAsYHQ/s1600-rw/menu-dhcp-server.PNG" title="Menu DHCP Server" width="500"></img>
+  
+ <li>Jika sudah masuk, kalian klik menu <code>DHCP Setup</code> simak step by stepnya dari saya. Nah kalau kalian baru meng-klik DHCP Setup, maka tampilan awalannya yaitu untuk pilihan <code>DHCP Server Interface</code> akan ada di posisi Wlan1, kalian rubah drop-down dan cari Wlan2. Jika sudah menjadi Wlan2, kalian klik Next.</li>
+   <img alt="DHCP Setup 1" height="420" layout="responsive" src="https://3.bp.blogspot.com/-LcD56uf-ahM/X1Zj9wfXO0I/AAAAAAAAJTY/DJDanHhqtIcvH3Q3H55jeQ4ehUT3Dpk4QCLcBGAsYHQ/s1600-rw/dhcp-setup-01.PNG" title="DHCP Setup 1" width="500"></img>
+  
+ <li>Lanjut, maka akan muncul halaman <code>DHCP Address Space</code>. Pada bagian ini kita akan isikan network ID dari IP Address jaringan lokal. Secara default atau otomatis akan terisi menyesuaikan IP Address yang digunakan sebelumnya. Jika sudah klik Next.</li>
+   <img alt="DHCP Setup 2" height="420" layout="responsive" src="https://2.bp.blogspot.com/-oYXLoUvKWII/X1ZkcW7l7GI/AAAAAAAAJTg/N_ZiBeKx0vIfdIBpjLa3cTUcKw2cUl74wCLcBGAsYHQ/s1600-rw/dhcp-setup-02.PNG" title="DHCP Setup 2" width="500"></img>
+  
+ <li>Lanjut, untuk halaman <code>Gateway for DHCP Network</code> isikan IP Address yang nantinya akan menjadi default gateway pada client. Secara otomatis akan terisi IP Address yang digunakan di mikrotik. Jika sudah klik Next.</li>
+   <img alt="DHCP Setup 3" height="420" layout="responsive" src="https://3.bp.blogspot.com/-kIgMbhehPtg/X1ZkvupZTDI/AAAAAAAAJTo/RKVagPHpsakWl-kdwKc1uu7bDmlGNAGfQCLcBGAsYHQ/s1600-rw/dhcp-setup-03.PNG" title="DHCP Setup 3" width="500"></img>
+  
+ <li>Lanjut, untuk tahap <code>Address to Give Out</code> ini nantinya akan mementukan range IP Address yang bisa digunakan oleh para Client nantinya. Secara otomatis akan terisi menyesuaikan dari jumlah host valid dari IP Address yang digunakannya tadi. Jika terlalu banyak hingga mencapai 254, bisa kalian kurangi menyesuaikan diri sendiri. Jika sudah menyetting range IP Address yang akan digunakan, kemudian klik Next.</li>
+   <img alt="DHCP Setup 4" height="420" layout="responsive" src="https://3.bp.blogspot.com/-CsiS0JwCWNM/X1ZlIWWMtAI/AAAAAAAAJTw/I5IQZuS-gkcM8xYEq8yTLvx-E3xOKJouwCLcBGAsYHQ/s1600-rw/dhcp-setup-04.PNG" title="DHCP Setup 4" width="500"></img>
+  
+ <li>Nah untuk 2 tahapan terakhir, yaitu <code>DNS Servers</code>. Untuk DNS Server ini, nantinya akan menjadi DNS yang digunakan oleh client. Untuk tahap ini saya setting menggunakan DNS 8.8.8.8 dan DNS 8.8.4.4, yang didapat secara otomatis, jika sudah setting DNS klik Next.</li>
+   <img alt="DHCP Setup 5" height="420" layout="responsive" src="https://1.bp.blogspot.com/-kVUifJtuRYE/X1ZlTvBqjzI/AAAAAAAAJT0/V1gtcwdXE0YxavsaKbkuRbi6qcbX7k07gCLcBGAsYHQ/s1600-rw/dhcp-setup-05.PNG" title="5" width="500"></img>
+  
+ <li>Tahap terakhir dari DHCP Setup ini adalah <code>Lease Time</code>. Pada tahapan ini kita akan menentukan berapa lama waktu peminjaman IP Address yang boleh dilakukan oleh setiap client. Secara otomatis akan terisi yaitu <em>00:10:00</em>, disini sudah saya rubah settingannya jadi maaf gak ke ambil gambarnya, hanya gambar defaultnya saja. Kalian juga bisa menyesuaikan keinginan kalian masing-masing. Jika sudah selesai klik Next.</li>
+   <img alt="DHCP Setup 6" height="420" layout="responsive" src="https://2.bp.blogspot.com/-ePVdcdT9IlI/X1ZldgCTD3I/AAAAAAAAJT8/FHA3HO0OFXIxYdjrCi8TY01e-VLL-QlgACLcBGAsYHQ/s1600-rw/dhcp-setup-06.PNG" title="DHCP Setup 6" width="500"></img>
+  
+ <li>Maka akan muncul notifikasi <em>"Setup has completed successfully"</em>. Itu menandakan bahwa setting DHCP Server telah berhasil. Dan di table DHCP Servernya juga akan muncul otomatis tentang halaman DHCP Server yang baru saja kita buat.</li>
+   <img alt="Hasil DHCP Server" height="400" layout="responsive" src="https://4.bp.blogspot.com/-qv8Pb2_4Bu8/X1Zlp8vtXoI/AAAAAAAAJUE/lAMolv1IuJUDYETacNwB1o1CGXkkn3OSgCLcBGAsYHQ/s1600-rw/hasil-dhcp-server.PNG" title="Hasil DHCP Server" width="500"></img>
+  
+ <li>Lanjut gan, kita masuk ke IP lalu cari Firewall. Jika sudah masuk ke halaman firewall, klik <code>NAT</code>. Dan tampilannya akan seperti dibawah ini.</li>
+   <img alt="Menu Firewall" height="420" layout="responsive" src="https://2.bp.blogspot.com/-45dTYSmmUts/X1Zl4ne8XzI/AAAAAAAAJUI/_VxkEc_64TE6krosrlZ7RvOxzqCRmDpAQCLcBGAsYHQ/s1600-rw/menu-firewall.PNG" title="Menu Firewall" width="500"></img>
+  
+ <li>Seperti biasa, klik tombol <code>+</code>, lalu kalian masuk ke menu <code>General</code> dan pilih <code>Chain</code> menjadi "Srcnat", lalu kalian cari menu <code>Out Interface</code> drop-down pilih "Wlan1". Kenapa kok Wlan1 lagi? Iya karena posisi ISP atau internet kita berada di Wlan1. Jika kalian menggunakan kabel LAN dan nyambung internetnya ada di Ether1, maka kalian pilih saja "ether1".</li>
+   <img alt="New NAT General" height="420" layout="responsive" src="https://4.bp.blogspot.com/-ZIBO5Mfy_z4/X1Zmliy9DsI/AAAAAAAAJUU/OIr4WZnRH7MusMhth-Ecbc-cs4wPejicQCLcBGAsYHQ/s1600-rw/new-nat-general.PNG" title="New NAT General" width="500"></img>
+  
+ <li>Lanjutan dari firewall, kalian klik menu <code>Action</code>. Pada menu Action kalian drop-down dan pilih <code>Masquerade</code>. Jika sudah semua klik Apply lalu klik OK.</li>
+   <img alt="New NAT Action" height="420" layout="responsive" src="https://3.bp.blogspot.com/-cQsigOdVsXo/X1ZmqrGMjwI/AAAAAAAAJUY/LC_OvFNav6sMOkn0GIkhoNkeOzzXRCIsACLcBGAsYHQ/s1600-rw/new-nat-action.PNG" title="New NAT Action" width="500"></img>
+  
+ <li>Dan tampilan table dari firewall akan muncul secara otomatis jika kalian sudah membuatnya. Hasilnya akan seperti dibawah ini.</li>
+   <img alt="Hasil Firewall" height="420" layout="responsive" src="https://1.bp.blogspot.com/-OfB559R88Jw/X1ZnYY-tkbI/AAAAAAAAJUo/mgVYk2J6w3EihJhE3BbEgenWrF2jX8fCwCLcBGAsYHQ/s1600-rw/hasil-firewall.PNG" title="Hasil Firewall" width="500"></img>
+  
+ <li>Dan tahap terakhir yaitu tahap pengujian koneksi WiFi pada client. Disini akan saya ujicoba pada ponsel pribadi saya. Dan masih ingat kan tadi saya setting WiFinya di Hidden Network, yang artinya tidak bisa muncul atau discan oleh para tuyul gratisan.</li>
+  
+ <li>Masuk ke WiFi, coba deh perhatikan baik-baik tidak ada kan SSID "Mikrotik.id", nah itu sebabnya saya setting Hidden Network. Langsung pilih <code>Tambah jaringan</code> untuk membuat jaringan sendiri. </li>
+   <img alt="Tambah Jaringan" height="420" layout="responsive" src="https://4.bp.blogspot.com/-Zc0h04x8-Og/X1ZrhcUUJ-I/AAAAAAAAJU0/bZD3ygNsFF01qCD0mwiIJEgT2jlPyu9PACLcBGAsYHQ/s1600-rw/Tambah-jaringan.PNG" title="Tambah Jaringan" width="500"></img>
+  
+ <li>Nah jika sudah klik tambah jaringan, kita isi jaringan sendiri, dengan settingan Mikrotik yang baru saja kita buat tadi. Kalau kita salah mengisi-nya bisa saja tidak akan tersambung ke jaringan WiFi. Oke langsung saya isikan, berikut adalah contoh gambarnya. Jika sudah yakin pengisian tersebut benar kalian klik Simpan.</li>
+   <img alt="Isi SSID dan Password" height="420" layout="responsive" src="https://1.bp.blogspot.com/-LHzFhoMnwPM/X1ZtNxH1fGI/AAAAAAAAJVA/e6szLBxjqEUruPDWZGPOneUzqGO3wVprQCLcBGAsYHQ/s1600-rw/Nama-wifi-dan-password.PNG" title="Isi SSID dan Password" width="500"></img> 
+  
+ <li>Taraa.. Tirii.. Turuu.. WiFi Hidden Network yang tadi saya buat sudah terkoneksi dengan benar.</li>
+   <img alt="WiFi Konek" height="420" layout="responsive" src="https://1.bp.blogspot.com/-H-APw9JAjFc/X1Zu-AFI3fI/AAAAAAAAJVQ/kiMtdfn3eGUu_41uPQHhpusEvcZuSoR1QCLcBGAsYHQ/s1600-rw/Wifi-konek.PNG" title="WiFi Konek" width="500"></img>
+ 
+ <li>Mari kita coba cek langsung koneksi internetnya. Apakah ini sudah ada koneksinya atau belum. Dan kaboomm, hasilnya WiFi sudah bisa terkoneksi ke internet dengan lancar jaya.</li>
+   <img alt="Hasil Koneksi" height="700" layout="responsive" src="https://4.bp.blogspot.com/-7yiYLZ53xM8/X1Zuw_MxaGI/AAAAAAAAJVM/nN6UDgxlS2QN8p0S4E0yxLnpN0YT-B0aQCLcBGAsYHQ/s1600-rw/Hasil-koneksi.jpeg" title="Hasil Koneksi" width="500"></img>
+</ol>
+</div>
+<div class="text-wrap text-justify">
+ <p>Nah itulah tadi artikel mengenai tutorial cara menembak WiFi lalu menyebarkannya kembali. Disini kalian hanya perlu membutuhkan satu Access Point saja yang bernama Mikrotik. Tanpa ada tambahan Access Point, Router, Switch, Hub, dan lainnya. Akan tetapi jika kalian punya alat tambahan, boleh saja dipakai. Hanya saja nanti settingannya sedikit berbeda dari settingan ini. </p>
+ <p>Okelah sekian sudah panjang sekali ini artikel, semoga artikel ini bermanfaat, dan selamat beruji coba gan. </p>
+</div>
+
+                      <div class="post-options">
+                        <div class="row">
+                          <div class="col-6">
+                            <ul class="post-tags">
+                              <li><i class="fa fa-tags"></i></li>
+                              <li><a href="#">Internet</a>,</li>
+                              <li><a href="#">Tutorial</a></li>
+                              <li><a href="#">Networking</a></li>
+                            </ul>
+                          </div>
+                          <div class="col-6">
+                            <ul class="post-share">
+                              <li><i class="fa fa-share-alt"></i></li>
+                              <li><a href="#">Facebook</a>,</li>
+                              <li><a href="#"> Twitter</a></li>
+                            </ul>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item comments">
+                    <div class="sidebar-heading">
+                      <h2>0 comments</h2>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item submit-comment">
+                    <div class="sidebar-heading">
+                      <h2>Your comment</h2>
+                    </div>
+                    <div class="content">
+                      <form id="comment" action="#" method="post">
+                        <div class="row">
+                          <div class="col-md-6 col-sm-12">
+                            <fieldset>
+                              <input name="name" type="text" id="name" placeholder="Masukkan Nama.." required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-md-6 col-sm-12">
+                            <fieldset>
+                              <input name="email" type="text" id="email" placeholder="Masukkan Email.." required="">
+                            </fieldset>
+                          </div>
+                          <div class="col-md-12 col-sm-12">
+                            <fieldset>
+                              <input name="subject" type="text" id="subject" placeholder="Ketikkan Subject Anda..">
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <textarea name="message" rows="6" id="message" placeholder="Ketikkan Komentar Anda.." required=""></textarea>
+                            </fieldset>
+                          </div>
+                          <div class="col-lg-12">
+                            <fieldset>
+                              <button type="submit" id="form-submit" class="main-button">Kirim</button>
+                            </fieldset>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="sidebar">
+              <div class="row">
+                <div class="col-lg-12">
+                  <div class="sidebar-item search">
+                    <form id="search_form" name="gs" method="GET" action="#">
+                      <input type="text" name="q" class="searchText" placeholder="Kata Kunci..." autocomplete="on">
+                    </form>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item recent-posts">
+                    <div class="sidebar-heading">
+                      <h2>Recent Posts</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="https://ekofandi.github.io/uji/tanda-ponsel-terkena-virus.html">
+                          <h5>Tanda Ponsel Terkena Virus</h5>
+                          <span>Oktober 28, 2020</span>
+                        </a></li>
+                        <li><a href="https://ekofandi.github.io/uji/aplikasi-boros-kuota-internet.html">
+                          <h5>Aplikasi Boros Kuota</h5>
+                          <span>Oktober 27, 2020</span>
+                        </a></li>
+                        <li><a href="https://ekofandi.github.io/uji/tutorial-nembak-wifi-dengan-mikrotik">
+                          <h5>Tutorial Nembak WiFi</h5>
+                          <span>Oktober 28, 2020</span>
+                        </a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item categories">
+                    <div class="sidebar-heading">
+                      <h2>Categories</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="#">- Internet</a></li>
+                        <li><a href="#">- Tutorial</a></li>
+                        <li><a href="#">- Networking</a></li>
+                        <li><a href="#">- Creative &amp; Unique</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-12">
+                  <div class="sidebar-item tags">
+                    <div class="sidebar-heading">
+                      <h2>Tag Clouds</h2>
+                    </div>
+                    <div class="content">
+                      <ul>
+                        <li><a href="#">Internet</a></li>
+                        <li><a href="#">Tutorial</a></li>
+                        <li><a href="#">Networking</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+            <ul class="social-icons">
+              <li><a href="#">Facebook</a></li>
+              <li><a href="#">Twitter</a></li>
+              <li><a href="https://www.instagram.com/abpj77">Instagram</a></li>
+              <li><a href="#">Linkedin</a></li>
+              <li><a href="#">Dribbble</a></li>
+            </ul>
+          </div>
+          <div class="col-lg-12">
+            <div class="copyright-text">
+              <p>&#169;Copyright 2020 Sangito. <img class="icon-hati" src="https://2.bp.blogspot.com/-Q7t23NL2aQU/XxiI1nT6uQI/AAAAAAAAI0s/YV_qtxqJwWw5NmU3UOrDwGwDGVNxPBIlwCLcBGAsYHQ/s320/I-Love-You.gif"/></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+
+    <!-- Additional Scripts -->
+    <script src="assets/js/custom.js"></script>
+    <script src="assets/js/owl.js"></script>
+    <script src="assets/js/slick.js"></script>
+    <script src="assets/js/isotope.js"></script>
+    <script src="assets/js/accordions.js"></script>
+
+
+    <script language = "text/Javascript"> 
+      cleared[0] = cleared[1] = cleared[2] = 0; //set a cleared flag for each field
+      function clearField(t){                   //declaring the array outside of the
+      if(! cleared[t.id]){                      // function makes it static and global
+          cleared[t.id] = 1;  // you could use true and false, but that's more typing
+          t.value='';         // with more chance of typos
+          t.style.color='#fff';
+          }
+      }
+    </script>
+
+
+  </body>
+
+</html>
