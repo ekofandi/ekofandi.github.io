@@ -18,6 +18,10 @@ img {
   	height: auto;
 }
 
+img .icon-hati {
+	width: 50%;
+}
+
 a {
 	text-decoration: none!important;
 }
