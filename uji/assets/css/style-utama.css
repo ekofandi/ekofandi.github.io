@@ -60,49 +60,55 @@ h1,h2,h3,h4,h5,h6 {
 }
 
  /* Style the form element with a border around it */
-form {
-  border: 0px;
+.rows {
+    height: 100vh
 }
 
-/* Add some padding and a grey background color to containers */
-.container {
-  padding: 20px;
+.form-control {
+    display: block;
+    width: 100%;
+    min-height: calc(1.5em + .75rem + 2px);
+    padding: .575rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 52px;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out
 }
 
-/* Style the input elements and the submit button */
-input[type=text], input[type=submit] {
-  width: 100%;
-  padding: 12px;
-  margin: 8px 0;
-  display: inline-block;
-  border: 1px solid #ccc;
-  box-sizing: border-box;
+.card {
+    padding: 20px;
+    background-color: #eee;
+    padding-bottom: 50px;
+    padding-top: 50px
 }
 
-/* Add margins to the checkbox */
-input[type=checkbox] {
-  margin-top: 16px;
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #f9a826;
+    outline: 0;
+    box-shadow: none
 }
 
-/* Style the submit button */
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  border: none;
+.border-rad {
+    border-top-right-radius: 28px;
+    border-bottom-right-radius: 28px;
+    color: #fff;
+    background-color: #f9a826;
+    border-color: #f9a826
 }
 
-input[type=submit]:hover {
-  opacity: 0.8;
-} 
-
-.buttonsubs {
-	font-size: 18px;
-	height: 38px;
-	background-color: #f48840;
-	border: 0;
-	padding-left: 50px;
-	padding-right: 50px;
-	color: #FFFFFF;
+.border-rad:hover {
+    background-color: #f9a826;
+    border-color: #f9a826
 }
 
 .heading-page {
